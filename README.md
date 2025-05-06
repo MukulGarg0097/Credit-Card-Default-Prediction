@@ -118,5 +118,6 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Mukul Garg**  
-[LinkedIn](https://www.linkedin.com/in/mukulgarg0097/) | [GitHub](https://github.com/MukulGarg0097/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulgarg0097/)  | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MukulGarg0097/)
+
 
