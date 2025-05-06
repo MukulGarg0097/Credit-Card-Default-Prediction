@@ -6,7 +6,6 @@ This project is a **machine learning pipeline** that predicts the likelihood of 
 
 - `Credit_Card_Default_Prediction.ipynb`: Main notebook containing data loading, EDA, preprocessing, modeling, and evaluation.
 - `data/`: (Optional) Folder to place your dataset if not loaded inline.
-- `models/`: (Optional) Folder to save trained models.
 - `README.md`: Project overview and instructions.
 
 ---
