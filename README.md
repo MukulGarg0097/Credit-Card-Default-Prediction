@@ -59,7 +59,7 @@ Metrics evaluated:
 
 ## ✅ Results
 
-- The best-performing model was Tuned Random forest Model with an accuracy of 89% and **ROC-AUC** of **0.926530**.
+- The best-performing model was Tuned Random forest Model with an **accuracy** of **89%** and **ROC-AUC** of **0.926530**.
 - Feature importance and hyperparameter tuning were also conducted for optimal performance.
 
  finalized to be my best model based on the evaluation metrics recall, F1 score, KS statistic.
